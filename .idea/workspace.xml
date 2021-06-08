@@ -23,67 +23,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a13ea8fa-845d-440b-8f38-f9b321004fa9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/target/targetcasestudy/DealItemFragmentTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/android/architecture/UserItemFragmentTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/target/targetcasestudy/DealListFragmentTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/android/architecture/UserFragmentTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/target/targetcasestudy/InstrumentedTestSuite.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/android/architecture/InstrumentedTestSuite.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/target/targetcasestudy/MainActivityTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/android/architecture/MainActivityTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/target/targetcasestudy/TargetRunner.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/android/architecture/CustomRunner.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/target/targetcasestudy/utils/Extensions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/android/architecture/utils/Extensions.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/debug/java/com/target/targetcasestudy/HiltTestActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/debug/java/com/android/architecture/HiltTestActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/target/targetcasestudy/TargetApplication.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/architecture/MyApplication.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/target/targetcasestudy/common/ActionableLiveData.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/architecture/common/ActionableLiveData.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/target/targetcasestudy/common/BaseLiveData.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/architecture/common/BaseLiveData.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/target/targetcasestudy/common/FragmentExtension.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/architecture/common/FragmentExtension.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/target/targetcasestudy/common/ObservableData.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/architecture/common/ObservableData.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/target/targetcasestudy/common/ProgressLiveData.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/architecture/common/ProgressLiveData.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/target/targetcasestudy/common/RecycleViewItemClickListener.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/architecture/common/RecycleViewItemClickListener.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/target/targetcasestudy/common/SpannableExtensions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/architecture/common/SpannableExtensions.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/target/targetcasestudy/di/NamedClient.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/architecture/di/NamedClient.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/target/targetcasestudy/di/module/BaseUrlModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/architecture/di/module/BaseUrlModule.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/target/targetcasestudy/di/module/ImageModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/architecture/di/module/ImageModule.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/target/targetcasestudy/di/module/NetworkModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/architecture/di/module/NetworkModule.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/target/targetcasestudy/di/module/RepoModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/architecture/di/module/RepoModule.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/target/targetcasestudy/ui/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/architecture/ui/MainActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/target/targetcasestudy/ui/base/BaseActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/architecture/ui/base/BaseActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/target/targetcasestudy/ui/base/BaseFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/architecture/ui/base/BaseFragment.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/target/targetcasestudy/ui/base/BaseRecyclerViewAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/architecture/ui/base/BaseRecyclerViewAdapter.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/target/targetcasestudy/ui/base/BaseViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/architecture/ui/base/BaseViewModel.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/target/targetcasestudy/ui/deals/DealItemAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/architecture/ui/users/UserAdapter.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/target/targetcasestudy/ui/deals/DealListFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/architecture/ui/users/UserFragment.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/target/targetcasestudy/ui/deals/DealsViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/architecture/ui/users/UserViewModel.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/target/targetcasestudy/ui/dealsitem/DealItemFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/architecture/ui/userinfo/UserItemFragment.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/target/targetcasestudy/ui/dealsitem/DealsItemViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/architecture/ui/userinfo/UserItemViewModel.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/target/targetcasestudy/ui/payment/PaymentDialogFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/architecture/ui/payment/PaymentDialogFragment.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/deal_list_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/user_item.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_deal_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_user_info.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_deal_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_user.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/navigation/navigation_home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/navigation/navigation_home.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/sharedTest/java/com/target/targetcasestudy/module/TestBaseUrlModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/sharedTest/java/com/android/architecture/module/TestBaseUrlModule.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/sharedTest/java/com/target/targetcasestudy/module/TestNetworkModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/sharedTest/java/com/android/architecture/module/TestNetworkModule.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/sharedTest/java/com/target/targetcasestudy/utils/MockResponseFileReader.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/sharedTest/java/com/android/architecture/utils/MockResponseFileReader.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/target/targetcasestudy/ApiTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/android/architecture/ApiTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/target/targetcasestudy/CreditCardValidatorTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/android/architecture/CreditCardValidatorTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/target/targetcasestudy/UnitTestSuite.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/android/architecture/UnitTestSuite.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/buildSrc/src/main/kotlin/Configs.kt" beforeDir="false" afterPath="$PROJECT_DIR$/buildSrc/src/main/kotlin/Configs.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/data/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/src/main/java/com/target/targetcasestudy/data/repository/network/Api.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data/src/main/java/com/android/architecture/data/repository/network/Api.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/src/main/java/com/target/targetcasestudy/data/repository/network/DataModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data/src/main/java/com/android/architecture/data/repository/network/DataModel.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/src/main/java/com/target/targetcasestudy/data/repository/network/Repo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data/src/main/java/com/android/architecture/data/repository/network/Repo.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/src/main/java/com/target/targetcasestudy/data/repository/network/RepoImpl.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data/src/main/java/com/android/architecture/data/repository/network/RepoImpl.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/src/main/java/com/target/targetcasestudy/data/repository/network/RxErrorHandlingCallAdapterFactory.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data/src/main/java/com/android/architecture/data/repository/network/RxErrorHandlingCallAdapterFactory.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/src/main/java/com/target/targetcasestudy/data/repository/network/exceptions/ConnectivityException.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data/src/main/java/com/android/architecture/data/repository/network/exceptions/ConnectivityException.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/src/main/java/com/target/targetcasestudy/data/repository/network/exceptions/ServerException.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data/src/main/java/com/android/architecture/data/repository/network/exceptions/ServerException.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/src/main/java/com/target/targetcasestudy/data/utils/RxExtensions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data/src/main/java/com/android/architecture/data/utils/RxExtensions.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/src/main/java/com/target/targetcasestudy/data/utils/Utils.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data/src/main/java/com/android/architecture/data/utils/Utils.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/src/main/java/com/target/targetcasestudy/data/utils/Validators.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data/src/main/java/com/android/architecture/data/utils/Validators.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/src/main/java/com/target/targetcasestudy/data/utils/timber/DebugTree.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data/src/main/java/com/android/architecture/data/utils/timber/DebugTree.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/src/main/java/com/target/targetcasestudy/data/utils/timber/ReleaseTree.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data/src/main/java/com/android/architecture/data/utils/timber/ReleaseTree.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/src/test/java/com/target/targetcasestudy/data/ExampleUnitTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data/src/test/java/com/android/architecture/data/ExampleUnitTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
-    </list>
+    <list default="true" id="a13ea8fa-845d-440b-8f38-f9b321004fa9" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -555,6 +495,11 @@
                 </map>
               </option>
             </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
           </value>
         </entry>
       </map>
