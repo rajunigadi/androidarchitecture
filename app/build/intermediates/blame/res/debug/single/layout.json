@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/user_item.xml",
+        "source": "/Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/app/src/main/res/layout/user_item.xml"
+    },
+    {
+        "merged": "/Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_user.xml",
+        "source": "/Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/app/src/main/res/layout/fragment_user.xml"
+    },
+    {
+        "merged": "/Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/dialog_payment.xml",
+        "source": "/Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/app/src/main/res/layout/dialog_payment.xml"
+    },
+    {
+        "merged": "/Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_user_info.xml",
+        "source": "/Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/app/src/main/res/layout/fragment_user_info.xml"
+    },
+    {
+        "merged": "/Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_base.xml",
+        "source": "/Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/app/src/main/res/layout/activity_base.xml"
+    }
+]

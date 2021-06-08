@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.test:rules:1.1.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e58d6ff7ee05325a0fde77fd19eef41d/rules-1.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ff26f59f62543db64fbcc2c16d6c5335/rules-1.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/76a1cfe06c437ff44eaa8cddf49f8565/rules-1.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4b0fe9e1e4445d8bf6f64cba3474ae7a/rules-1.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e57aacebaa7761fc7ecad6200ba191cf/rules-1.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4f0b7845b5ddcd5fd675f66c15edff91/rules-1.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6b17fef7bd1ac2c82bc79d44e744d11d/rules-1.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a118f1bc001d2436bc47d835f7ee4282/rules-1.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/66eaef2980487044b2fb6d8b7c7676e9/rules-1.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6d706351168467721ccee58139b3c003/rules-1.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/133148f9eac409bd7aa2c87654c958e3/rules-1.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d60aaf136d7742992fee08d84401375a/rules-1.1.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d60aaf136d7742992fee08d84401375a/rules-1.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d60aaf136d7742992fee08d84401375a/rules-1.1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test/rules/1.1.0/eeeb1f3106f0b269a22301a3bc9e7ae2805bf30d/rules-1.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test/rules/1.1.0/21258c8db327b9d026a9a05dcbc4922b1e979f3/rules-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

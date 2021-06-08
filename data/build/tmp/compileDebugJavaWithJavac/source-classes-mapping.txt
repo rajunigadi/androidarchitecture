@@ -1,0 +1,14 @@
+com/android/architecture/data/BuildConfig.java
+ com.android.architecture.data.BuildConfig
+com/android/architecture/data/DataBindingInfo.java
+ com.android.architecture.data.DataBindingInfo
+com/android/architecture/data/DataBinderMapperImpl.java
+ com.android.architecture.data.DataBinderMapperImpl
+ com.android.architecture.data.DataBinderMapperImpl$InnerBrLookup
+ com.android.architecture.data.DataBinderMapperImpl$InnerLayoutIdLookup
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
+com/android/architecture/data/BR.java
+ com.android.architecture.data.BR

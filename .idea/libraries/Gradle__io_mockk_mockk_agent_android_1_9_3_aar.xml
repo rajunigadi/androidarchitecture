@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="Gradle: io.mockk:mockk-agent-android:1.9.3@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b0e3f62458e574d84d932f51f0b90e3a/jetified-mockk-agent-android-1.9.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/00cf3faa7b14ef2d26def4ea095f9ab8/jetified-mockk-agent-android-1.9.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b1b224898770709465e8524a2b6c3ccd/jetified-mockk-agent-android-1.9.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f3f4ffbb20b09b67ca4f807798de9831/jetified-mockk-agent-android-1.9.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c1ad10f5d9a4b3ad0f626552517117d5/jetified-mockk-agent-android-1.9.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f49e8193178c9c38fa9103b2ea9f0ec9/jetified-mockk-agent-android-1.9.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/496b343418dea42f612d5d1c10511526/jetified-mockk-agent-android-1.9.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/af942069c36fe3cd265cb92e3650326e/jetified-mockk-agent-android-1.9.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d41b15a3110ab79bce3c87bd8fe99c8f/jetified-mockk-agent-android-1.9.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/37643a2301fa762b6ea1711750270c78/jetified-mockk-agent-android-1.9.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4ab8fbc749df69abacdd238c02033925/jetified-mockk-agent-android-1.9.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7f0a17db40484cb4716652aec81047c2/jetified-mockk-agent-android-1.9.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f35b6e816bda9902e06984df83d01031/jetified-mockk-agent-android-1.9.3/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f35b6e816bda9902e06984df83d01031/jetified-mockk-agent-android-1.9.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f35b6e816bda9902e06984df83d01031/jetified-mockk-agent-android-1.9.3/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.mockk/mockk-agent-android/1.9.3/859134691d983fd3545295c3a1e41efce0e67e8c/mockk-agent-android-1.9.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.mockk/mockk-agent-android/1.9.3/d662509025abf39452805783775310e9298de706/mockk-agent-android-1.9.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

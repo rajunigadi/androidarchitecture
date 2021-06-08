@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="--&gt;" />
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a13ea8fa-845d-440b-8f38-f9b321004fa9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/target/targetcasestudy/DealItemFragmentTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/android/architecture/UserItemFragmentTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/target/targetcasestudy/DealListFragmentTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/android/architecture/UserFragmentTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/target/targetcasestudy/InstrumentedTestSuite.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/android/architecture/InstrumentedTestSuite.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/target/targetcasestudy/MainActivityTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/android/architecture/MainActivityTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/target/targetcasestudy/TargetRunner.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/android/architecture/CustomRunner.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/target/targetcasestudy/utils/Extensions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/android/architecture/utils/Extensions.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/debug/java/com/target/targetcasestudy/HiltTestActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/debug/java/com/android/architecture/HiltTestActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/target/targetcasestudy/TargetApplication.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/architecture/MyApplication.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/target/targetcasestudy/common/ActionableLiveData.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/architecture/common/ActionableLiveData.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/target/targetcasestudy/common/BaseLiveData.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/architecture/common/BaseLiveData.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/target/targetcasestudy/common/FragmentExtension.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/architecture/common/FragmentExtension.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/target/targetcasestudy/common/ObservableData.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/architecture/common/ObservableData.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/target/targetcasestudy/common/ProgressLiveData.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/architecture/common/ProgressLiveData.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/target/targetcasestudy/common/RecycleViewItemClickListener.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/architecture/common/RecycleViewItemClickListener.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/target/targetcasestudy/common/SpannableExtensions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/architecture/common/SpannableExtensions.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/target/targetcasestudy/di/NamedClient.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/architecture/di/NamedClient.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/target/targetcasestudy/di/module/BaseUrlModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/architecture/di/module/BaseUrlModule.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/target/targetcasestudy/di/module/ImageModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/architecture/di/module/ImageModule.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/target/targetcasestudy/di/module/NetworkModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/architecture/di/module/NetworkModule.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/target/targetcasestudy/di/module/RepoModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/architecture/di/module/RepoModule.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/target/targetcasestudy/ui/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/architecture/ui/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/target/targetcasestudy/ui/base/BaseActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/architecture/ui/base/BaseActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/target/targetcasestudy/ui/base/BaseFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/architecture/ui/base/BaseFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/target/targetcasestudy/ui/base/BaseRecyclerViewAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/architecture/ui/base/BaseRecyclerViewAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/target/targetcasestudy/ui/base/BaseViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/architecture/ui/base/BaseViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/target/targetcasestudy/ui/deals/DealItemAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/architecture/ui/users/UserAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/target/targetcasestudy/ui/deals/DealListFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/architecture/ui/users/UserFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/target/targetcasestudy/ui/deals/DealsViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/architecture/ui/users/UserViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/target/targetcasestudy/ui/dealsitem/DealItemFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/architecture/ui/userinfo/UserItemFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/target/targetcasestudy/ui/dealsitem/DealsItemViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/architecture/ui/userinfo/UserItemViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/target/targetcasestudy/ui/payment/PaymentDialogFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/architecture/ui/payment/PaymentDialogFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/deal_list_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/user_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_deal_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_user_info.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_deal_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_user.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/navigation/navigation_home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/navigation/navigation_home.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/sharedTest/java/com/target/targetcasestudy/module/TestBaseUrlModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/sharedTest/java/com/android/architecture/module/TestBaseUrlModule.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/sharedTest/java/com/target/targetcasestudy/module/TestNetworkModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/sharedTest/java/com/android/architecture/module/TestNetworkModule.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/sharedTest/java/com/target/targetcasestudy/utils/MockResponseFileReader.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/sharedTest/java/com/android/architecture/utils/MockResponseFileReader.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/target/targetcasestudy/ApiTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/android/architecture/ApiTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/target/targetcasestudy/CreditCardValidatorTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/android/architecture/CreditCardValidatorTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/target/targetcasestudy/UnitTestSuite.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/android/architecture/UnitTestSuite.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buildSrc/src/main/kotlin/Configs.kt" beforeDir="false" afterPath="$PROJECT_DIR$/buildSrc/src/main/kotlin/Configs.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/data/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/src/main/java/com/target/targetcasestudy/data/repository/network/Api.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data/src/main/java/com/android/architecture/data/repository/network/Api.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/src/main/java/com/target/targetcasestudy/data/repository/network/DataModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data/src/main/java/com/android/architecture/data/repository/network/DataModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/src/main/java/com/target/targetcasestudy/data/repository/network/Repo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data/src/main/java/com/android/architecture/data/repository/network/Repo.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/src/main/java/com/target/targetcasestudy/data/repository/network/RepoImpl.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data/src/main/java/com/android/architecture/data/repository/network/RepoImpl.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/src/main/java/com/target/targetcasestudy/data/repository/network/RxErrorHandlingCallAdapterFactory.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data/src/main/java/com/android/architecture/data/repository/network/RxErrorHandlingCallAdapterFactory.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/src/main/java/com/target/targetcasestudy/data/repository/network/exceptions/ConnectivityException.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data/src/main/java/com/android/architecture/data/repository/network/exceptions/ConnectivityException.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/src/main/java/com/target/targetcasestudy/data/repository/network/exceptions/ServerException.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data/src/main/java/com/android/architecture/data/repository/network/exceptions/ServerException.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/src/main/java/com/target/targetcasestudy/data/utils/RxExtensions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data/src/main/java/com/android/architecture/data/utils/RxExtensions.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/src/main/java/com/target/targetcasestudy/data/utils/Utils.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data/src/main/java/com/android/architecture/data/utils/Utils.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/src/main/java/com/target/targetcasestudy/data/utils/Validators.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data/src/main/java/com/android/architecture/data/utils/Validators.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/src/main/java/com/target/targetcasestudy/data/utils/timber/DebugTree.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data/src/main/java/com/android/architecture/data/utils/timber/DebugTree.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/src/main/java/com/target/targetcasestudy/data/utils/timber/ReleaseTree.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data/src/main/java/com/android/architecture/data/utils/timber/ReleaseTree.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/src/test/java/com/target/targetcasestudy/data/ExampleUnitTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data/src/test/java/com/android/architecture/data/ExampleUnitTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[SerialNumber@J0AA003647K72900947]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile" />
+        <option value="navigationResourceFile" />
+        <option value="resourceFile" />
+        <option value="valueResourceFile" />
+        <option value="Class" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1skHDZcGMmScgJFjZNUE6TecDDL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DEBUGGABLE_DEVICE" value="hmd_global-nokia_5_3-J0AA003647K72900947" />
+    <property name="DEBUGGABLE_PROCESS" value="com.android.architecture" />
+    <property name="DEBUGGER_ID" value="Auto" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="android-custom-view/Users/rajashekhar/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.1.0/f2bdf79e1977939817f54a9d3e2f6bc52b63bdd0/recyclerview-1.1.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java_SELECTED" value="RecyclerView" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/androidTest/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/sharedTest/java" />
+      <recent name="$PROJECT_DIR$/app/src/androidTest/java/com/target/targetcasestudy" />
+      <recent name="$PROJECT_DIR$/app/src/main/java/com/target/targetcasestudy/ui/deals" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/values" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.target.targetcasestudy" />
+      <recent name="com.target.targetcasestudy.common" />
+      <recent name="com.target.targetcasestudy.di" />
+      <recent name="com.target.targetcasestudy.ui.dealsitem" />
+      <recent name="com.target.targetcasestudy.ui" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.target.targetcasestudy" />
+      <recent name="com.target.targetcasestudy.common" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/sharedTest/resources" />
+      <recent name="$PROJECT_DIR$/app/src/main/java/com/target/targetcasestudy/common" />
+      <recent name="$PROJECT_DIR$/app/src/main/res" />
+      <recent name="$PROJECT_DIR$/app/src/sharedTest" />
+      <recent name="$PROJECT_DIR$/app/src/sharedTest/java/com/target/targetcasestudy" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration name="UnitTestSuite" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="android-architecture.app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.android.architecture.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.android.architecture" />
+      <option name="MAIN_CLASS_NAME" value="com.android.architecture.UnitTestSuite" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="android-architecture.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="data" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="android-case-study-master.data" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DealItemFragmentTest" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests" temporary="true" nameIsGenerated="true">
+      <module name="target.app" />
+      <option name="TESTING_TYPE" value="2" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="com.target.architecture.DealItemFragmentTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="INCLUDE_GRADLE_EXTRA_OPTIONS" value="true" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DealListFragmentTest" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests" temporary="true" nameIsGenerated="true">
+      <module name="target.app" />
+      <option name="TESTING_TYPE" value="2" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="com.target.architecture.DealListFragmentTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="INCLUDE_GRADLE_EXTRA_OPTIONS" value="true" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InstrumentedTestSuite" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests" temporary="true" nameIsGenerated="true">
+      <module name="target.app" />
+      <option name="TESTING_TYPE" value="2" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="com.target.architecture.InstrumentedTestSuite" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="INCLUDE_GRADLE_EXTRA_OPTIONS" value="true" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testDealDetailWith...()" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests" temporary="true" nameIsGenerated="true">
+      <module name="target.app" />
+      <option name="TESTING_TYPE" value="3" />
+      <option name="METHOD_NAME" value="testDealDetailWithDiscount" />
+      <option name="CLASS_NAME" value="com.target.architecture.DealItemFragmentTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="INCLUDE_GRADLE_EXTRA_OPTIONS" value="true" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android JUnit.UnitTestSuite" />
+        <item itemvalue="Android Instrumented Tests.InstrumentedTestSuite" />
+        <item itemvalue="Android Instrumented Tests.DealItemFragmentTest" />
+        <item itemvalue="Android Instrumented Tests.testDealDetailWith...()" />
+        <item itemvalue="Android Instrumented Tests.DealListFragmentTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a13ea8fa-845d-440b-8f38-f9b321004fa9" name="Default Changelist" comment="" />
+      <created>1621409550723</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621409550723</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Deleted build directory from Version Control">
+      <created>1621499263591</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1621499263591</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Deleted build directory from Version Control" />
+    <option name="LAST_COMMIT_MESSAGE" value="Deleted build directory from Version Control" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="447" y="308" key="#PSD" timestamp="1621421561108">
+      <screen x="53" y="25" width="1739" height="1095" />
+    </state>
+    <state x="447" y="308" key="#PSD/53.25.1739.1095@53.25.1739.1095" timestamp="1621421561108" />
+    <state x="387" y="231" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1621588417402">
+      <screen x="53" y="25" width="1739" height="1095" />
+    </state>
+    <state x="387" y="231" key="#com.intellij.execution.impl.EditConfigurationsDialog/53.25.1739.1095@53.25.1739.1095" timestamp="1621588417402" />
+    <state x="153" y="125" width="1539" height="895" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1621579246393">
+      <screen x="53" y="25" width="1739" height="1095" />
+    </state>
+    <state x="153" y="125" width="1539" height="895" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/53.25.1739.1095@53.25.1739.1095" timestamp="1621579246393" />
+    <state x="708" y="292" key="#com.intellij.ide.util.MemberChooser" timestamp="1621581406832">
+      <screen x="53" y="25" width="1739" height="1095" />
+    </state>
+    <state x="708" y="292" key="#com.intellij.ide.util.MemberChooser/53.25.1739.1095@53.25.1739.1095" timestamp="1621581406832" />
+    <state x="53" y="25" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1623135163046">
+      <screen x="53" y="25" width="1739" height="1095" />
+    </state>
+    <state x="53" y="25" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/53.25.1739.1095@53.25.1739.1095" timestamp="1623135163046" />
+    <state x="660" y="323" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1621528359008">
+      <screen x="53" y="25" width="1739" height="1095" />
+    </state>
+    <state x="660" y="323" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/53.25.1739.1095@53.25.1739.1095" timestamp="1621528359008" />
+    <state x="696" y="368" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1621573957550">
+      <screen x="53" y="25" width="1739" height="1095" />
+    </state>
+    <state x="696" y="368" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/53.25.1739.1095@53.25.1739.1095" timestamp="1621573957550" />
+    <state x="510" y="331" key="AndroidCreateResourceDirectoryDialog" timestamp="1621573695109">
+      <screen x="53" y="25" width="1739" height="1095" />
+    </state>
+    <state x="510" y="331" key="AndroidCreateResourceDirectoryDialog/53.25.1739.1095@53.25.1739.1095" timestamp="1621573695109" />
+    <state x="510" y="331" key="AndroidCreateResourceFileDialog" timestamp="1621512242358">
+      <screen x="53" y="25" width="1739" height="1095" />
+    </state>
+    <state x="510" y="331" key="AndroidCreateResourceFileDialog/53.25.1739.1095@53.25.1739.1095" timestamp="1621512242358" />
+    <state x="752" y="336" key="AndroidCreateXmlResourceDialog" timestamp="1621492968516">
+      <screen x="53" y="25" width="1739" height="1095" />
+    </state>
+    <state x="752" y="336" key="AndroidCreateXmlResourceDialog/53.25.1739.1095@53.25.1739.1095" timestamp="1621492968516" />
+    <state x="695" y="323" key="AndroidProcessChooserDialog" timestamp="1623137691945">
+      <screen x="53" y="25" width="1739" height="1095" />
+    </state>
+    <state x="695" y="323" key="AndroidProcessChooserDialog/53.25.1739.1095@53.25.1739.1095" timestamp="1623137691945" />
+    <state x="414" y="145" key="CommitChangelistDialog2" timestamp="1621499263407">
+      <screen x="53" y="25" width="1739" height="1095" />
+    </state>
+    <state x="414" y="145" key="CommitChangelistDialog2/53.25.1739.1095@53.25.1739.1095" timestamp="1621499263407" />
+    <state x="153" y="125" width="1539" height="895" key="DiffContextDialog" timestamp="1621588559992">
+      <screen x="53" y="25" width="1739" height="1095" />
+    </state>
+    <state x="153" y="125" width="1539" height="895" key="DiffContextDialog/53.25.1739.1095@53.25.1739.1095" timestamp="1621588559992" />
+    <state width="1697" height="408" key="GridCell.Tab.0.bottom" timestamp="1623138137162">
+      <screen x="53" y="25" width="1739" height="1095" />
+    </state>
+    <state width="1697" height="408" key="GridCell.Tab.0.bottom/53.25.1739.1095@53.25.1739.1095" timestamp="1623138137162" />
+    <state width="1697" height="408" key="GridCell.Tab.0.center" timestamp="1623138137161">
+      <screen x="53" y="25" width="1739" height="1095" />
+    </state>
+    <state width="1697" height="408" key="GridCell.Tab.0.center/53.25.1739.1095@53.25.1739.1095" timestamp="1623138137161" />
+    <state width="1697" height="408" key="GridCell.Tab.0.left" timestamp="1623138137161">
+      <screen x="53" y="25" width="1739" height="1095" />
+    </state>
+    <state width="1697" height="408" key="GridCell.Tab.0.left/53.25.1739.1095@53.25.1739.1095" timestamp="1623138137161" />
+    <state width="1697" height="408" key="GridCell.Tab.0.right" timestamp="1623138137161">
+      <screen x="53" y="25" width="1739" height="1095" />
+    </state>
+    <state width="1697" height="408" key="GridCell.Tab.0.right/53.25.1739.1095@53.25.1739.1095" timestamp="1623138137161" />
+    <state width="1697" height="301" key="GridCell.Tab.1.bottom" timestamp="1623137921856">
+      <screen x="53" y="25" width="1739" height="1095" />
+    </state>
+    <state width="1697" height="301" key="GridCell.Tab.1.bottom/53.25.1739.1095@53.25.1739.1095" timestamp="1623137921856" />
+    <state width="1697" height="301" key="GridCell.Tab.1.center" timestamp="1623137921856">
+      <screen x="53" y="25" width="1739" height="1095" />
+    </state>
+    <state width="1697" height="301" key="GridCell.Tab.1.center/53.25.1739.1095@53.25.1739.1095" timestamp="1623137921856" />
+    <state width="1697" height="301" key="GridCell.Tab.1.left" timestamp="1623137921855">
+      <screen x="53" y="25" width="1739" height="1095" />
+    </state>
+    <state width="1697" height="301" key="GridCell.Tab.1.left/53.25.1739.1095@53.25.1739.1095" timestamp="1623137921855" />
+    <state width="1697" height="301" key="GridCell.Tab.1.right" timestamp="1623137921856">
+      <screen x="53" y="25" width="1739" height="1095" />
+    </state>
+    <state width="1697" height="301" key="GridCell.Tab.1.right/53.25.1739.1095@53.25.1739.1095" timestamp="1623137921856" />
+    <state x="714" y="354" key="chooseDestDirectoryDialog" timestamp="1621512256467">
+      <screen x="53" y="25" width="1739" height="1095" />
+    </state>
+    <state x="714" y="354" key="chooseDestDirectoryDialog/53.25.1739.1095@53.25.1739.1095" timestamp="1621512256467" />
+    <state x="624" y="327" width="717" height="490" key="find.popup" timestamp="1623132614376">
+      <screen x="53" y="25" width="1739" height="1095" />
+    </state>
+    <state x="624" y="327" width="717" height="490" key="find.popup/53.25.1739.1095@53.25.1739.1095" timestamp="1623132614376" />
+    <state x="587" y="269" width="670" height="676" key="search.everywhere.popup" timestamp="1621592196191">
+      <screen x="53" y="25" width="1739" height="1095" />
+    </state>
+    <state x="587" y="269" width="670" height="676" key="search.everywhere.popup/53.25.1739.1095@53.25.1739.1095" timestamp="1621592196191" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/android/architecture/ui/users/UserFragment.kt</url>
+          <line>64</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

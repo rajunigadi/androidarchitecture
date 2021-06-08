@@ -1,0 +1,32 @@
+<component name="libraryTable">
+  <library name="Gradle: io.reactivex.rxjava2:rxandroid:2.1.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e0a2294151e36fdad12489be6a46856c/jetified-rxandroid-2.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/58758c0c7cd23226a9cdcb88f569df7f/jetified-rxandroid-2.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b2e3da8f62c96da6c342a31c8ec15bb4/jetified-rxandroid-2.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/414a4ecc598fb2a74ecb98a16885629d/jetified-rxandroid-2.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2bbed3096fb7e0c69e2dc6a246ed36de/jetified-rxandroid-2.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/858a654d4774736c5f185504ed4aafc4/jetified-rxandroid-2.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2adf5e4de2a4ec53325cd98255410ef8/jetified-rxandroid-2.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4fea131d32e1f76482996329719adc5d/jetified-rxandroid-2.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4280c1677ae9ac8abee61348740e0882/jetified-rxandroid-2.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/77fcddf1b8aff16a6b20f132d2776f04/jetified-rxandroid-2.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/71456e4c2969653ce5390d221c98a03e/jetified-rxandroid-2.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bff9fa34779d37059f0414f12faeb965/jetified-rxandroid-2.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/eb666396b183081f5ecaeee98c078268/jetified-rxandroid-2.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b5634a86da06c702bb7c0b8e78bbf0fd/jetified-rxandroid-2.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/111d9c6fc1a2e5a295c4e3b1cd34778d/jetified-rxandroid-2.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/38f80565f9d5bb150ad312407ec81d73/jetified-rxandroid-2.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f9399d3079e823741a97f1060cac2b10/jetified-rxandroid-2.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fcb5a5fba45938210f4132c743820276/jetified-rxandroid-2.1.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fcb5a5fba45938210f4132c743820276/jetified-rxandroid-2.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fcb5a5fba45938210f4132c743820276/jetified-rxandroid-2.1.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxandroid/2.1.1/634c77382eff415441853908e7e1429c786f6320/rxandroid-2.1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxandroid/2.1.1/b7af9e13aaec7e9cd2e05b585a81ef7a27f16e16/rxandroid-2.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

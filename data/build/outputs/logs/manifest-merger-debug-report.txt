@@ -1,0 +1,31 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/data/src/main/AndroidManifest.xml:2:1-6:12
+INJECTED from /Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/data/src/main/AndroidManifest.xml:2:1-6:12
+INJECTED from /Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/data/src/main/AndroidManifest.xml:2:1-6:12
+	package
+		ADDED from /Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/data/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/data/src/main/AndroidManifest.xml
+		INJECTED from /Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/data/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/data/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/data/src/main/AndroidManifest.xml:4:5-79
+	android:name
+		ADDED from /Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/data/src/main/AndroidManifest.xml:4:22-76
+application
+ADDED from /Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/data/src/main/AndroidManifest.xml:5:5-19
+uses-sdk
+INJECTED from /Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/data/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/data/src/main/AndroidManifest.xml
+INJECTED from /Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/data/src/main/AndroidManifest.xml
+INJECTED from /Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/data/src/main/AndroidManifest.xml
+INJECTED from /Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/data/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/data/src/main/AndroidManifest.xml
+		ADDED from /Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/data/src/main/AndroidManifest.xml
+		INJECTED from /Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/data/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/data/src/main/AndroidManifest.xml
+		ADDED from /Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/data/src/main/AndroidManifest.xml
+		INJECTED from /Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/data/src/main/AndroidManifest.xml

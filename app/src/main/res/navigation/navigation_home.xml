@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation_home"
+    app:startDestination="@id/fragment_user">
+
+    <fragment
+        android:id="@+id/fragment_user"
+        android:name="com.android.architecture.ui.users.UserFragment"
+        android:label="Users"
+        tools:layout="@layout/fragment_user" >
+        <action
+            android:id="@+id/action_fragment_user_to_fragment_user_item"
+            app:destination="@id/fragment_user_item" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/fragment_user_item"
+        android:name="com.android.architecture.ui.userinfo.UserItemFragment"
+        android:label="User"
+        tools:layout="@layout/fragment_user_info">
+
+        <argument
+            android:name="login"
+            app:argType="string"
+            android:defaultValue="@null"
+            app:nullable="true" />
+
+    </fragment>
+
+</navigation>

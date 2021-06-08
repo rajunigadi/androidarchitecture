@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.squareup.rx.idler:rx2-idler:0.11.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/13a3a978ef03afdcdf7caf1d7e56006e/jetified-rx2-idler-0.11.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1d8c30beb0ae43ce14862a85b8bd6d8d/jetified-rx2-idler-0.11.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/847ac1ec8e2d31fc71a44547a82b090f/jetified-rx2-idler-0.11.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/847ac1ec8e2d31fc71a44547a82b090f/jetified-rx2-idler-0.11.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/847ac1ec8e2d31fc71a44547a82b090f/jetified-rx2-idler-0.11.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.rx.idler/rx2-idler/0.11.0/75d8552bd9c77f65f848cfa7f8e7e5016e97f503/rx2-idler-0.11.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.rx.idler/rx2-idler/0.11.0/bd38549e6498d8f29c98d5b84f7594ab2f7765dc/rx2-idler-0.11.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

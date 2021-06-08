@@ -1,0 +1,127 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.android.architecture"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->/Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/app/src/main/AndroidManifest.xml:5:5-67
+11-->/Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/app/src/main/AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->[:data] /Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/data/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-79
+12-->[:data] /Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/data/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:22-76
+13    <uses-permission android:name="android.permission.REORDER_TASKS" />
+13-->[androidx.fragment:fragment-testing:1.3.4] /Users/rajashekhar/.gradle/caches/transforms-2/files-2.1/cefcf972d8f35651fde2fdd3686777e0/jetified-fragment-testing-1.3.4/AndroidManifest.xml:25:5-72
+13-->[androidx.fragment:fragment-testing:1.3.4] /Users/rajashekhar/.gradle/caches/transforms-2/files-2.1/cefcf972d8f35651fde2fdd3686777e0/jetified-fragment-testing-1.3.4/AndroidManifest.xml:25:22-69
+14
+15    <application
+15-->/Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/app/src/main/AndroidManifest.xml:7:5-28:19
+16        android:name="com.android.architecture.MyApplication"
+16-->/Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/app/src/main/AndroidManifest.xml:8:9-62
+17        android:allowBackup="true"
+17-->/Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/app/src/main/AndroidManifest.xml:9:9-35
+18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+18-->[androidx.core:core:1.3.2] /Users/rajashekhar/.gradle/caches/transforms-2/files-2.1/1340bd9740b9f674d9b7ff3215c5617d/core-1.3.2/AndroidManifest.xml:24:18-86
+19        android:debuggable="true"
+20        android:icon="@mipmap/ic_launcher"
+20-->/Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/app/src/main/AndroidManifest.xml:10:9-43
+21        android:label="@string/app_name"
+21-->/Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/app/src/main/AndroidManifest.xml:11:9-41
+22        android:networkSecurityConfig="@xml/network_security_config"
+22-->/Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/app/src/main/AndroidManifest.xml:15:9-69
+23        android:roundIcon="@mipmap/ic_launcher_round"
+23-->/Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/app/src/main/AndroidManifest.xml:12:9-54
+24        android:supportsRtl="true"
+24-->/Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/app/src/main/AndroidManifest.xml:13:9-35
+25        android:testOnly="true"
+26        android:theme="@style/AppTheme"
+26-->/Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/app/src/main/AndroidManifest.xml:16:9-40
+27        android:usesCleartextTraffic="true" >
+27-->/Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/app/src/main/AndroidManifest.xml:14:9-44
+28        <activity android:name="com.android.architecture.ui.MainActivity" >
+28-->/Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/app/src/main/AndroidManifest.xml:17:9-23:20
+28-->/Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/app/src/main/AndroidManifest.xml:17:19-74
+29            <intent-filter>
+29-->/Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/app/src/main/AndroidManifest.xml:18:13-22:29
+30                <action android:name="android.intent.action.MAIN" />
+30-->/Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/app/src/main/AndroidManifest.xml:19:17-69
+30-->/Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/app/src/main/AndroidManifest.xml:19:25-66
+31
+32                <category android:name="android.intent.category.LAUNCHER" />
+32-->/Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/app/src/main/AndroidManifest.xml:21:17-77
+32-->/Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/app/src/main/AndroidManifest.xml:21:27-74
+33            </intent-filter>
+34        </activity>
+35        <activity
+35-->/Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/app/src/main/AndroidManifest.xml:25:9-27:41
+36            android:name="com.android.architecture.HiltTestActivity"
+36-->/Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/app/src/main/AndroidManifest.xml:26:13-69
+37            android:exported="false" />
+37-->/Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/app/src/main/AndroidManifest.xml:27:13-37
+38        <activity
+38-->[androidx.fragment:fragment-testing:1.3.4] /Users/rajashekhar/.gradle/caches/transforms-2/files-2.1/cefcf972d8f35651fde2fdd3686777e0/jetified-fragment-testing-1.3.4/AndroidManifest.xml:28:9-37:20
+39            android:name="androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity"
+39-->[androidx.fragment:fragment-testing:1.3.4] /Users/rajashekhar/.gradle/caches/transforms-2/files-2.1/cefcf972d8f35651fde2fdd3686777e0/jetified-fragment-testing-1.3.4/AndroidManifest.xml:29:13-96
+40            android:exported="true"
+40-->[androidx.fragment:fragment-testing:1.3.4] /Users/rajashekhar/.gradle/caches/transforms-2/files-2.1/cefcf972d8f35651fde2fdd3686777e0/jetified-fragment-testing-1.3.4/AndroidManifest.xml:30:13-36
+41            android:multiprocess="true"
+41-->[androidx.fragment:fragment-testing:1.3.4] /Users/rajashekhar/.gradle/caches/transforms-2/files-2.1/cefcf972d8f35651fde2fdd3686777e0/jetified-fragment-testing-1.3.4/AndroidManifest.xml:31:13-40
+42            android:taskAffinity=""
+42-->[androidx.fragment:fragment-testing:1.3.4] /Users/rajashekhar/.gradle/caches/transforms-2/files-2.1/cefcf972d8f35651fde2fdd3686777e0/jetified-fragment-testing-1.3.4/AndroidManifest.xml:32:13-36
+43            android:theme="@style/FragmentScenarioEmptyFragmentActivityTheme" >
+43-->[androidx.fragment:fragment-testing:1.3.4] /Users/rajashekhar/.gradle/caches/transforms-2/files-2.1/cefcf972d8f35651fde2fdd3686777e0/jetified-fragment-testing-1.3.4/AndroidManifest.xml:33:13-78
+44            <intent-filter>
+44-->[androidx.fragment:fragment-testing:1.3.4] /Users/rajashekhar/.gradle/caches/transforms-2/files-2.1/cefcf972d8f35651fde2fdd3686777e0/jetified-fragment-testing-1.3.4/AndroidManifest.xml:34:13-36:29
+45                <action android:name="android.intent.action.MAIN" />
+45-->/Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/app/src/main/AndroidManifest.xml:19:17-69
+45-->/Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/app/src/main/AndroidManifest.xml:19:25-66
+46            </intent-filter>
+47        </activity>
+48        <activity
+48-->[androidx.test:core:1.3.0] /Users/rajashekhar/.gradle/caches/transforms-2/files-2.1/696213a5413c88fb57d10572248819ce/jetified-core-1.3.0/AndroidManifest.xml:27:9-33:20
+49            android:name="androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity"
+49-->[androidx.test:core:1.3.0] /Users/rajashekhar/.gradle/caches/transforms-2/files-2.1/696213a5413c88fb57d10572248819ce/jetified-core-1.3.0/AndroidManifest.xml:28:13-99
+50            android:theme="@android:style/Theme" >
+50-->[androidx.test:core:1.3.0] /Users/rajashekhar/.gradle/caches/transforms-2/files-2.1/696213a5413c88fb57d10572248819ce/jetified-core-1.3.0/AndroidManifest.xml:29:13-49
+51            <intent-filter>
+51-->[androidx.fragment:fragment-testing:1.3.4] /Users/rajashekhar/.gradle/caches/transforms-2/files-2.1/cefcf972d8f35651fde2fdd3686777e0/jetified-fragment-testing-1.3.4/AndroidManifest.xml:34:13-36:29
+52                <action android:name="android.intent.action.MAIN" />
+52-->/Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/app/src/main/AndroidManifest.xml:19:17-69
+52-->/Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/app/src/main/AndroidManifest.xml:19:25-66
+53            </intent-filter>
+54        </activity>
+55        <activity
+55-->[androidx.test:core:1.3.0] /Users/rajashekhar/.gradle/caches/transforms-2/files-2.1/696213a5413c88fb57d10572248819ce/jetified-core-1.3.0/AndroidManifest.xml:34:9-40:20
+56            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity"
+56-->[androidx.test:core:1.3.0] /Users/rajashekhar/.gradle/caches/transforms-2/files-2.1/696213a5413c88fb57d10572248819ce/jetified-core-1.3.0/AndroidManifest.xml:35:13-95
+57            android:theme="@android:style/Theme" >
+57-->[androidx.test:core:1.3.0] /Users/rajashekhar/.gradle/caches/transforms-2/files-2.1/696213a5413c88fb57d10572248819ce/jetified-core-1.3.0/AndroidManifest.xml:36:13-49
+58            <intent-filter>
+58-->[androidx.fragment:fragment-testing:1.3.4] /Users/rajashekhar/.gradle/caches/transforms-2/files-2.1/cefcf972d8f35651fde2fdd3686777e0/jetified-fragment-testing-1.3.4/AndroidManifest.xml:34:13-36:29
+59                <action android:name="android.intent.action.MAIN" />
+59-->/Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/app/src/main/AndroidManifest.xml:19:17-69
+59-->/Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/app/src/main/AndroidManifest.xml:19:25-66
+60            </intent-filter>
+61        </activity>
+62        <activity
+62-->[androidx.test:core:1.3.0] /Users/rajashekhar/.gradle/caches/transforms-2/files-2.1/696213a5413c88fb57d10572248819ce/jetified-core-1.3.0/AndroidManifest.xml:41:9-47:20
+63            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity"
+63-->[androidx.test:core:1.3.0] /Users/rajashekhar/.gradle/caches/transforms-2/files-2.1/696213a5413c88fb57d10572248819ce/jetified-core-1.3.0/AndroidManifest.xml:42:13-103
+64            android:theme="@android:style/Theme.Dialog" >
+64-->[androidx.test:core:1.3.0] /Users/rajashekhar/.gradle/caches/transforms-2/files-2.1/696213a5413c88fb57d10572248819ce/jetified-core-1.3.0/AndroidManifest.xml:43:13-56
+65            <intent-filter>
+65-->[androidx.fragment:fragment-testing:1.3.4] /Users/rajashekhar/.gradle/caches/transforms-2/files-2.1/cefcf972d8f35651fde2fdd3686777e0/jetified-fragment-testing-1.3.4/AndroidManifest.xml:34:13-36:29
+66                <action android:name="android.intent.action.MAIN" />
+66-->/Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/app/src/main/AndroidManifest.xml:19:17-69
+66-->/Users/rajashekhar/Documents/Rajashekhar/Code/GitHub/android-architecture/app/src/main/AndroidManifest.xml:19:25-66
+67            </intent-filter>
+68        </activity>
+69    </application>
+70
+71</manifest>

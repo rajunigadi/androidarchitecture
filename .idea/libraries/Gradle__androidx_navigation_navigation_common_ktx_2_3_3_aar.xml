@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.navigation:navigation-common-ktx:2.3.3@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/20d0a19594b98bd713b679ed22fc98f0/navigation-common-ktx-2.3.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9ef91f671e32884867e315e83ccaf196/navigation-common-ktx-2.3.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c34a463db970144fa6409e1104167a5d/navigation-common-ktx-2.3.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bbfaab7811ae5cc94c1fe3ab6e6969b8/navigation-common-ktx-2.3.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e25aa140f81c595af7543d8b11951de0/navigation-common-ktx-2.3.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7777f70f62d112359de34eb01523f8d6/navigation-common-ktx-2.3.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5a23ded753f6c221cb1a4fe05687f4b3/navigation-common-ktx-2.3.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0ef4b90848c33c3108b30e01933eb4ed/navigation-common-ktx-2.3.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bd04332897403acd21a07d8693797dfa/navigation-common-ktx-2.3.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2f9e0c0c603002bded5e2fde577ec440/navigation-common-ktx-2.3.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dcfba8f7172a11fb5d3d8387eacf516d/navigation-common-ktx-2.3.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b20bfafec7babd874c4c62cfa798e76e/navigation-common-ktx-2.3.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7f58fa7e51ac1efc7a0a52a7382d3a65/navigation-common-ktx-2.3.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4d67355375d96280848b95e4f7ae8203/navigation-common-ktx-2.3.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4af7ef5146845f624ab5906ac36912a3/navigation-common-ktx-2.3.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/75ede67aab10e6394299f0725ea8afc8/navigation-common-ktx-2.3.3/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/456022cbbef2bdb82898ef90920daeda/navigation-common-ktx-2.3.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/456022cbbef2bdb82898ef90920daeda/navigation-common-ktx-2.3.3/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/456022cbbef2bdb82898ef90920daeda/navigation-common-ktx-2.3.3/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.navigation/navigation-common-ktx/2.3.3/1a3ce7c2b9dcc97c1d25ef6ab8e016b5a76de983/navigation-common-ktx-2.3.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
